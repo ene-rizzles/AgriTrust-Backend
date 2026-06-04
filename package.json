@@ -1,7 +1,7 @@
 {
-  "name": "grant-backend",
+  "name": "agritrust-backend",
   "version": "1.0.0",
-  "description": "API for Grant Stream",
+  "description": "API for AgriTrust Protocol",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

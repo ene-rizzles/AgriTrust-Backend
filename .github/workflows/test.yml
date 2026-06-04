@@ -1,4 +1,4 @@
-name: Grant API Tests
+name: AgriTrust Backend Tests
 
 on:
   push:
